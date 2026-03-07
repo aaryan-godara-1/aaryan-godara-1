@@ -1,5 +1,21 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi+I'm+Aryan;BTech+CSE+AI+Student;Building+AI+Projects;Future+Startup+Founder)
+## 🚀 What I'm Building
 
+- 🔭 Developing **AI-powered tools, automation systems, and startup products**
+- 💻 Working on **web applications and AI automation solutions for real-world problems**
+- 🤝 Open to collaborating on **AI projects, SaaS ideas, and innovative tech products**
+- 🌱 Currently learning **Artificial Intelligence, Data Engineering, and scalable system design**
+- ⚡ I prefer **building real projects and experimenting instead of only studying theory**
+
+## 🧩 Areas I'm Working In
+
+- AI Automation & Intelligent Workflows  
+- Machine Learning & Applied AI  
+- Web Development (Frontend + Backend)  
+- SaaS & Startup Product Development  
+- API Development & System Integration  
+- Data Engineering Fundamentals  
+- Cloud & Deployment Basics
 ## 📊 GitHub Stats & Trophies
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=aaryanjaat1&theme=react-dark&hide_border=true&cache_seconds=86400" alt="Aryan's GitHub Streak" width="49%" /></p>
