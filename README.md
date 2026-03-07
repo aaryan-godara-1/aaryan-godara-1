@@ -13,9 +13,7 @@
 - Machine Learning & Applied AI  
 - Web Development (Frontend + Backend)  
 - SaaS & Startup Product Development  
-- API Development & System Integration  
-- Data Engineering Fundamentals  
-- Cloud & Deployment Basics
+
 ## 📊 GitHub Stats & Trophies
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=aaryanjaat1&theme=react-dark&hide_border=true&cache_seconds=86400" alt="Aryan's GitHub Streak" width="49%" /></p>
