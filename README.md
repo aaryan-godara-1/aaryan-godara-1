@@ -1,0 +1,1 @@
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Aryan;BTech+CSE+AI+Student;Building+AI+Projects;Future+Startup+Founder)
