@@ -8,15 +8,6 @@
 </p>
 
 ---
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=aaryanjaat1&theme=react-dark&radius=10" alt="Aryan's Activity Graph" />
-</p>
-
-
----
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
@@ -25,7 +16,11 @@
 </picture>
 </p>
 
----
+## 📈 Contribution Activity
+
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=aaryanjaat1&theme=react-dark&radius=10" alt="Aryan's Activity Graph" />
+</p>
 
 ## 🛠️ Languages & Tools
 
@@ -79,27 +74,12 @@
 <img src="https://cdn.worldvectorlogo.com/logos/blender-2.svg" alt="Blender" width="48" height="48" style="margin:10px;"/>
 </p>
 
-
-<br>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-  <img alt="Pacman eating my GitHub contributions" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-</picture>
-</p>
-
-<br>
 ---
-### ✍️ Dev Quote
-
+## ✍️ Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=synthwave&border=true" width="80%"/>
 </p>
-
----
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%" alt="animated divider">
