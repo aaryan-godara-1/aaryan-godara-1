@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi+I'm+Aryan;BTech+CSE+AI+Student;Building+AI+Projects;Future+Startup+Founder)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi+I'm+Aryan;BTech+CSE+(AI+%26+Data+Engineering)+Student;Building+AI+Tools+%26+Automation+Systems;Freelance+Web+Developer;Startup+Founder+Building+Tech+Products)
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aaryanjaat1&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
