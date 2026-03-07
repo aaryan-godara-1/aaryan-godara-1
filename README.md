@@ -75,6 +75,20 @@
 </p>
 
 ---
+## 🤝 Let's Connect & Collaborate
+<p align="center">
+<table align="center" width="75%">
+<tr>
+<td align="center" bgcolor="#ffffff" style="padding:16px 28px; border-radius:12px; border:2px solid #e6e6e6;">
+<span style="color:#000000; font-weight:700; font-size:17px; letter-spacing:0.3px;">
+🚀 Open to collaborations on AI projects, innovative tech ideas, and startups
+</span>
+</td>
+</tr>
+</table>
+</p>
+<p align="center"><a href="https://www.linkedin.com/in/aryan-godara-0535b0320/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://wa.me/8950153750" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:aaryanjaat11@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
+
 ## ✍️ Dev Quote
 
 <p align="center">
